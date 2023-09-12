@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import './App.css';
 import Button from '@mui/material/Button';
 import CartItems from './components/CartItems';
-import './App.css';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 //import ScanCode from './components/ScanCode';
 import axios from 'axios';
