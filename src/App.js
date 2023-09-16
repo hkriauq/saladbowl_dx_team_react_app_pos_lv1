@@ -129,6 +129,7 @@ function App() {
     setCartItems([]);
     setProductList([]); 
   };
+  
   return (
     <div className="App">
       <header className="App-header">
